@@ -7,7 +7,7 @@ class Main extends Component {
   render() {
     return (
       <div
-        className="container-fluid mt-5 col-m-4"
+        className="container-fluid mt-5 bg-dark col-m-4"
         style={{ maxWidth: "550px" }}
       >
         <div className="col-sm">
