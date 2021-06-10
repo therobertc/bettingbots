@@ -7,7 +7,7 @@ class Main extends Component {
   render() {
     return (
       <div
-        className="container-fluid mt-5 bg-dark col-m-4"
+        className="container-fluid mt-5 col-m-4"
         style={{ maxWidth: "550px" }}
       >
         <div className="col-sm">
@@ -17,7 +17,7 @@ class Main extends Component {
           >
             <div className="content mr-auto ml-auto">
               <div id="content" className="mt-3">
-                <div className="card mb-4 bg-dark border-danger">
+                <div className="card mb-4 bg-dark">
                   <div className="card-body">
                     <div>
                       <a
